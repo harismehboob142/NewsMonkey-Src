@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+      {
+        "source": {
+          "id": "fox-sports",
+          "name": "Fox Sports"
+        },
+        "author": "FOX Sports",
+        "title": "College football odds: Three early win total bets to make now",
+        "description": "FOX Sports analyst Geoff Schwartz breaks down which college football teams' win totals you should place your early bets on now.",
+        "url": "http://www.foxsports.com/stories/college-football/college-football-odds-three-early-win-total-bets-to-make-now",
+        "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/1408/814/07.13.22_GeoffOverUnder_Horizontal.jpg?ve=1&tl=1",
+        "publishedAt": "2022-07-13T19:44:09Z",
+        "content": "By Geoff Schwartz\r\nFOX Sports NFL Analyst\r\nIts beginning to smell a lot like college football! Gamblers, get on your marks because preview magazines are out, conference media days are around the corn… [+4707 chars]"
+      },
+      {
+        "source": {
+          "id": "espn",
+          "name": "ESPN"
+        },
+        "author": "David Wilson",
+        "title": "Oklahoma State football coach Mike Gundy asks why Texas, Oklahoma allowed in Big 12 business meetings",
+        "description": "Oklahoma State football coach Mike Gundy said that if he was the Big 12 commissioner, he wouldn't allow representatives from Texas and Oklahoma, who are leaving to join the SEC, to attend any of the conference's business meetings.",
+        "url": "http://espn.go.com/college-football/story/_/id/34238029/oklahoma-state-football-coach-mike-gundy-asks-why-texas-oklahoma-allowed-big-12-business-meetings",
+        "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0713%2Fr1035929_1296x729_16%2D9.jpg",
+        "publishedAt": "2022-07-13T19:14:16Z",
+        "content": "Oklahoma State football coach Mike Gundy \"jokingly\" offered advice for new Big 12 commissioner Brett Yormark on Wednesday: Don't let the Texas Longhorns and Oklahoma Sooners continue to participate i… [+2721 chars]"
+      },
+      {
+        "source": {
+          "id": "gruenderszene",
+          "name": "Gruenderszene"
+        },
+        "author": null,
+        "title": "Sensoren, KI und Metaverse: 8 deutsche Startups, die den Fußball digitalisieren",
+        "description": "Die DFL will Fußball digitaler machen. Deutsche Startups wie Onefootball oder Kinexon arbeiten schon länger daran.",
+        "url": "https://www.businessinsider.de/gruenderszene/business/ki-und-metaverse-acht-deutsche-startups-die-den-fussball-digitalisieren/",
+        "urlToImage": "https://cdn.businessinsider.de/wp-content/uploads/2022/07/shutterstock_1464868235.jpg?ver=1657635709",
+        "publishedAt": "2022-07-13T10:09:48+00:00",
+        "content": "Sensoren, KI und Metaverse: 8 deutsche Startups, die den Fußball digitalisieren\r\nDie DFL will Fußball digitaler machen. Deutsche Startups wie Onefootball oder Kinexon arbeiten mit ihren Produkten sch… [+1024 chars]"
+      },
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+        "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+        "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+        "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+        "publishedAt": "2020-04-27T07:20:43Z",
+        "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+      }
+    ]
+  }
